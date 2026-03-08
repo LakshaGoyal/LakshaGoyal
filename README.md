@@ -1,7 +1,6 @@
 # 💫 Hi 👋
 **A passionate Fullstack learner || AI and Data Analytics 
 
-- 🔭 **I’m currently working on:** OPEN CV
 - 🌱 **I’m currently learning:** DATA SCIENCE
 
 ## 🌐 Socials:
